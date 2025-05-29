@@ -1,0 +1,4 @@
+main_categories = ['Fruits', 'Packages', 'Vegetables']
+fruits_classes = ['apple', 'banana', 'grapes', 'kiwi', 'mango', 'orange', 'pear', 'pineapple', 'pomegranate', 'watermelon']
+vegetables_classes = ['beetroot', 'bell pepper', ' cabbage', 'capsicum', 'carrot', 'cauliflower', 'chilli pepper', 'corn', 'cucumber', 'eggplant', 'garlic', 'ginger', 'jalepeno', 'lemon', 'lettuce', 'onion', 'paprika', 'peas', 'potato', 'raddish', 'soy beans', 'spinach', 'sweetcorn', 'sweetpotato', 'tomato', 'turnip']
+packages_classes = ['Alpro-Blueberry-Soyghurt', 'Alpro-Vanilla-Soyghurt', 'Arla-Ecological-Medium-Fat-Milk', 'Arla-Standard-Milk', 'Bravo-Apple-Juice', 'Bravo-Orange-Juice', 'God-Morgon-Red-Grapefruit-Juice', 'Oatly-Natural-Oatghurt', 'Oatly-Oat-Milk', 'Yoggi-Strawberry-Yoghurt', 'Yoggi-Vanilla-Yoghurt']
